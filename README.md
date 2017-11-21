@@ -1,25 +1,25 @@
-# ReduxSimpleStarter
+# MeTube
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A youtube clone. This app uses the youtube API to fetch videos.
 
-### Getting Started
+## Features
+- Search youtube videos.
+- Play youtube videos
 
-There are two methods for getting started with this repo.
+## Technologies
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+- React JS
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+## Local Development
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+- Install dependencies `npm install`
+- To run the app: `npm start`
 
-```
-> npm install
-> npm start
-```
+## Contributing
+
+1. Fork this repositry to your account.
+2. Clone your repository: git clone git@github.com:thecodingpoet/metube.git
+3. Create your feature branch: git checkout -b new-feature
+4. Commit your changes: git commit -m "did something"
+5. Push to the remote branch: git push origin new-feature
+6. Open a pull request.
